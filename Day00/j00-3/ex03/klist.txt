@@ -1,0 +1,6 @@
+Credentials cache: API:4FC0E11A-C7CB-4BE6-95F4-C280DD3B8F4E
+        Principal: msteffen@42.FR
+
+  Issued                Expires               Principal
+Jul  4 15:41:33 2017  Jul 11 15:41:33 2017  krbtgt/42.FR@42.FR
+Jul  4 15:43:42 2017  Jul 11 15:41:33 2017  host/vgs-fn1.42.fr@42.FR
